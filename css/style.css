@@ -1,0 +1,44 @@
+.bg-color {
+  background-color: #005EB5 !important; }
+
+.fs-24 {
+  font-size: 24px !important; }
+
+#Slider-container img {
+  width: 100%;
+  display: block; }
+
+@media (max-width: 576px) {
+  #Sec1Col2 {
+    display: block !important; }
+
+  #Sec1Col1 {
+    display: none !important; }
+
+  #mobileLogin {
+    display: block !important; }
+
+  #backBtn {
+    display: block !important; } }
+@media (min-width: 576px) and (max-width: 768px) {
+  #Sec1Col2 {
+    display: block !important;
+    position: relative;
+    bottom: 467px; }
+
+  #Sec1Col1 {
+    display: block !important;
+    position: relative;
+    top: 600px; }
+
+  #wrapper2 {
+    width: 85% !important;
+    margin: 0 auto; }
+
+  #wrapper2 p {
+    font-size: 16px !important; }
+
+  #wrapper2 img {
+    padding: 0px !important; } }
+
+/*# sourceMappingURL=style.css.map */
